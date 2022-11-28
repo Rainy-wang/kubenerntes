@@ -1,1 +1,1 @@
-FROM registry.k8s.io/coredns/coredns:v1.9.3
+FROM docker.io/coredns/coredns:1.9.3
